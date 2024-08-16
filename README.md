@@ -41,6 +41,8 @@ For generatePortfolio.py update line: 22
 
 **6.) All compressed files labeled '...function_source' need to be uploaded to the Google Cloud Function**
 
+**7.) generatePortfolio.ipynb should be uploaded into Vertex AI Workbench**
+
 
 
 
