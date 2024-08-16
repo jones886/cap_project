@@ -39,7 +39,7 @@ For financialReportIndicators.py update lines: 14, 103
 
 For generatePortfolio.py update line: 22
 
-**6.) All compressed files labeled '...function_source' need to be uploaded to Google Cloud Function**
+**6.) All compressed files labeled '...function_source' need to be uploaded to the Google Cloud Function**
 
 
 
