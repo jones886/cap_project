@@ -51,7 +51,7 @@ For stock_daily_360_function_source.main.py update line: 27
 
 **6.) All compressed files labeled '...function_source' need to be uploaded to the Google Cloud Function**
 
-**7.) generatePortfolio.ipynb should be uploaded into Vertex AI Workbench**
+**7.) generatePortfolio.ipynb should be uploaded into a Vertex AI Workbench**
 
 
 
