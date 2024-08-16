@@ -15,6 +15,10 @@ pip install pymysql
 
 pip install xlwt
 
+pip install hmmlearn
+
+pip install akshare
+
 **2.) Install MySQL**
 
 https://dev.mysql.com/downloads/installer/
@@ -24,3 +28,17 @@ Select mysql-installer-community-8.0.39.0.msi
 **3.) Register on Tushare**
 
 https://tushare.pro/register
+
+**4.) Download the Python files in this repository**
+
+**5.) Update MySQL User and Passwords in Python files**
+
+For dcf.py update lines: 1071, 1089, 1105, 1115
+
+For financialReportIndicators.py update lines: 14, 103
+
+For generatePortfolio.py update line: 22
+
+
+
+
